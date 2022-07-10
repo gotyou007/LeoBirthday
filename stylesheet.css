@@ -1314,8 +1314,7 @@ audio {
 		color: #7a7c7f; font-size: 29px; font-family: "Libre Baskerville", serif; line-height: 45px; text-align: center; text-shadow: 0 1px 1px #fff; padding-top: 20px; 
 	  }
 	.link {
-		margin-bottom: 20px; /* change default value */
-		margin-left: 500px; /* change default value */
+		text-align: center;
 		color: rgb(0, 140, 255);
 		text-decoration: none;
 		font-size: 25px;
