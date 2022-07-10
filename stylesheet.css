@@ -1309,9 +1309,9 @@ audio {
 	.info {
 		display: none;
 	}
-	h1 { color: #ff4411; font-size: 48px; font-family: "Great Vibes"; padding-bottom: 10px; }
+	h1 { color: #ff4411; font-size: 30px; font-family: "Great Vibes"; padding-bottom: 10px; }
 	p {
-		color: #7a7c7f; font-size: 29px; font-family: "Libre Baskerville", serif; line-height: 45px; text-align: center; text-shadow: 0 1px 1px #fff; padding-top: 20px; 
+		color: #7a7c7f; font-size: 18px; font-family: "Libre Baskerville", serif; line-height: 45px; text-align: center; text-shadow: 0 1px 1px #fff; padding-top: 20px; 
 	  }
 	.link {
 		text-align: center;
