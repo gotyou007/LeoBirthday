@@ -1277,6 +1277,9 @@ body {
 	display: none;
 	font-weight: bold;
 }
+audio {
+	display: none;
+}
 
 .btn-primary {
         border-color: #466baf;
