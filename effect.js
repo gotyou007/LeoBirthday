@@ -66,8 +66,8 @@ $('document').ready(function(){
 			});
 		}
 	$('#turn_on').click(function(){
-		
-        	$('#song').play();
+		var audio = $('#song')[0];
+        	audio.play();
 		$('#bulb_yellow').addClass('bulb-glow-yellow');
 		$('#bulb_red').addClass('bulb-glow-red');
 		$('#bulb_blue').addClass('bulb-glow-blue');
