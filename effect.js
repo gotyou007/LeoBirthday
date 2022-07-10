@@ -90,8 +90,8 @@ $('document').ready(function(){
 	
 
 	$('#call_autobots').click(function(){
-		$('<img id="fly" src="bee-right-there-omw.gif" width="200" height="200" style="position:fixed; right:0px; bottom:0px;">').appendTo(".container");
-		$('<img id="fly" src="bumblebee-transformers.gif" width="200" height="300" style="position:fixed; left:30px; top:70px;">').appendTo(".container");
+		$('<img id="fly" src="bee-right-there-omw.gif" width="200" height="200" style="right:0px; bottom:0px;">').appendTo(".container");
+		$('<img id="fly" src="bumblebee-transformers.gif" width="200" height="300" style="left:30px; top:70px;">').appendTo(".container");
 		$('<img id="fly" src="prime.png" width="300" height="300" style="position:fixed; right:0px; top:50px;">').appendTo(".container");
 		$('.info').fadeIn('slow');
 		
