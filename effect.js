@@ -92,7 +92,7 @@ $('document').ready(function(){
 	$('#call_autobots').click(function(){
 		$('<img id="fly" src="bee-right-there-omw.gif" width="130" height="150" style="position:fixed; right:0px; bottom:0px;">').appendTo(".container");
 		$('<img id="fly" src="omw-transform.gif" width="150" height="150" style="position:fixed; left:0px; top:200px;">').appendTo(".container");
-		$('<img id="fly" src="prime.png" width="200" height="200" style="position:fixed; right:0px; top:150px;">').appendTo(".container");
+		$('<img id="fly" src="prime.png" width="180" height="180" style="position:fixed; right:0px; top:120px;">').appendTo(".container");
 		$('.info').fadeIn('slow');
 		
 		$(this).fadeOut();
